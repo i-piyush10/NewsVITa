@@ -1,38 +1,44 @@
 # NewsVITa
 
-NewsVITa is a dynamic platform designed to keep the VIT community informed and engaged. It delivers the latest updates on events, seminars, and campus happenings in real-time, offering a vibrant window into life at VIT.
+NewsVITa is a refined platform crafted to keep the VIT community well-informed and connected. It delivers real-time updates on events, seminars, and campus happenings, while celebrating the vibrant life and innovation at VIT through stories, multimedia, and club opportunities.
 
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
-- [How to Use](#how-to-use)
+- [Usage](#usage)
 - [Contributing](#contributing)
-- [Contact](#contact)
+- [Author](#author)
+- [License](#license)
 
 ## About
-NewsVITa chronicles the pulse of the VIT campus by providing timely news updates and celebrating memorable moments from past events. It showcases how VIT continues to lead in education and innovation, connecting students, faculty, and alumni through shared experiences and informative content.
+Stay ahead with timely news updates on everything happening on and around the VIT campus. Relive memorable moments, explore active clubs, and immerse yourself in a platform that elegantly captures the spirit of VIT.
 
 ## Features
-- Real-time news updates on campus events and seminars
-- Archive of memorable moments and past events
-- Opportunities to join thriving clubs and explore various roles
-- Exclusive photo and video galleries that capture the essence of VIT life
-- User-friendly interface focused on delivering engaging and relevant content
+- Real-time updates on events, seminars, and campus news
+- Archive of past memorable events
+- Dynamic club listings with roles and opportunities
+- Photo and video galleries showcasing campus life
 
-## How to Use
-Browse the latest updates and upcoming events on the homepage. Explore detailed galleries to relive key moments at VIT. Join clubs by exploring available roles and opportunities within the community.
+## Usage
+Simply browse the latest updates on the homepage, dive into past event galleries, and discover clubs to join. NewsVITa makes it easy to stay connected with the VIT community.
 
 ## Contributing
-Contributions are welcome to make NewsVITa more comprehensive and engaging. To contribute:
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'Add your feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request for review
+Contributions are warmly welcomed! Please follow these steps:
+1. Fork this repository
+2. Create a feature branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -m 'Add feature'`)
+4. Push to your branch (`git push origin feature/YourFeature`)
+5. Open a Pull Request to review and merge
 
-## Contact
-For any inquiries or feedback, please open an issue or contact the project maintainer.
+## Author
+Developed and maintained by Piyush Raj(https://github.com/i-piyush10).  
+For any questions or feedback, feel free to open an issue or contact me via GitHub.
+
+## License
+## License
+This project currently does not have a license and all rights are reserved by the author.
+
 
 ---
 
-Stay informed and connected with NewsVITa — your gateway to the vibrant life at VIT campus.
+Stay informed and engaged with NewsVITa — your elegant gateway to life at VIT campus.
