@@ -35,7 +35,6 @@ Developed and maintained by Piyush Raj(https://github.com/i-piyush10).
 For any questions or feedback, feel free to open an issue or contact me via GitHub.
 
 ## License
-## License
 This project currently does not have a license and all rights are reserved by the author.
 
 
