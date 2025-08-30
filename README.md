@@ -7,7 +7,6 @@ NewsVITa is a dynamic platform designed to keep the VIT community informed and e
 - [Features](#features)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## About
@@ -30,9 +29,6 @@ Contributions are welcome to make NewsVITa more comprehensive and engaging. To c
 3. Commit your changes (`git commit -m 'Add your feature'`)
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request for review
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any inquiries or feedback, please open an issue or contact the project maintainer.
